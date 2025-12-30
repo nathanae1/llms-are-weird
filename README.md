@@ -9,3 +9,5 @@
 
 * Large Language Models as Markov Chains: https://arxiv.org/abs/2410.02724
 * Language Models Are Implicitly Continuous: https://arxiv.org/abs/2504.03933
+
+* Grokking can happen well after perfect overfitting (changing state space/increasing information density can improve grokking speed): https://arxiv.org/pdf/2501.04697
